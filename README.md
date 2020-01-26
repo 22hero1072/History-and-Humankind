@@ -198,7 +198,11 @@
 
 # 江戸時代 by水本t
 
- 
+![PDF1](https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/data/graduationthesis.png?raw=true "QR")
+![PDF2](https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/data/graduationthesis.png?raw=true "QR")
+![PDF3](https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/data/graduationthesis.png?raw=true "QR")
+![PDF4](https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/data/graduationthesis.png?raw=true "QR")
+
 
 
 
